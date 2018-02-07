@@ -1,0 +1,16 @@
+#compiled objects
+*.o
+
+#leveldb stuffs
+build_config.mk
+libleveldb.a
+libmemenv.a
+Makefile*
+object_script*
+build/*
+release/*
+*.qm
+.DS_Store
+.*.swp
+*.*~*
+*.bak
